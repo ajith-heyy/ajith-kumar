@@ -1,0 +1,2 @@
+streamlit
+stream-option-menu
