@@ -1,2 +1,2 @@
 streamlit
-stream-option-menu
+streamlit-option-menu
